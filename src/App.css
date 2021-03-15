@@ -1,0 +1,30 @@
+.App {
+    display: flex;
+    background-color: blue;
+    flex-direction: column;
+}
+.header {
+    display: flex;
+    flex-direction: row-reverse;
+    text-align: center;
+    justify-content: center;
+}
+.header h1 {
+    color: rgb(226, 148, 84);
+    font-size: 500%;
+}
+
+.Abo {
+    flex-direction: column;
+    justify-content: center;
+    background-color: blue;
+    text-align: center;
+    width: 100%;
+}
+img {
+    width: 80px;
+    height: 100px;
+}
+Form.label {
+    text-align: center;
+}
